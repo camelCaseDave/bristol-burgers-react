@@ -1,0 +1,55 @@
+{
+  "sessions": {
+    "odata.metadata": "https://bristolburgers.powerappsportals.com/_odata/$metadata#Sessions",
+    "value": [
+      {
+        "dc_sessionid": "fea01117-9c49-ea11-a812-000d3a86b9ef",
+        "dc_account": {
+          "Id": "c639df34-9749-ea11-a812-000d3a86b9ef",
+          "Name": "Asado"
+        },
+        "dc_date": "2020-02-06T00:00:00Z",
+        "dc_notes": "Max, Reidy and Dave after work. First visit to Asado. ",
+        "list-id": "acfdaee0-a549-ea11-a812-000d3a86b9ef",
+        "view-id": "16b3ead0-e7bc-484a-8613-611f1f3ade8a",
+        "entity-permissions-enabled": "true"
+      },
+      {
+        "dc_sessionid": "4646758f-9264-ea11-a812-000d3a86b9ef",
+        "dc_account": {
+          "Id": "35e60181-9264-ea11-a812-000d3a86b9ef",
+          "Name": "Chomp"
+        },
+        "dc_date": "2020-03-12T00:00:00Z",
+        "dc_notes": null,
+        "list-id": "acfdaee0-a549-ea11-a812-000d3a86b9ef",
+        "view-id": "16b3ead0-e7bc-484a-8613-611f1f3ade8a",
+        "entity-permissions-enabled": "true"
+      },
+      {
+        "dc_sessionid": "1f437685-8ea7-eb11-9442-002248002509",
+        "dc_account": {
+          "Id": "2f15685a-8ea7-eb11-9442-002248002509",
+          "Name": "Bronx"
+        },
+        "dc_date": "2021-04-27T00:00:00Z",
+        "dc_notes": null,
+        "list-id": "acfdaee0-a549-ea11-a812-000d3a86b9ef",
+        "view-id": "16b3ead0-e7bc-484a-8613-611f1f3ade8a",
+        "entity-permissions-enabled": "true"
+      },
+      {
+        "dc_sessionid": "dfee987a-ad1a-ec11-b6e7-0022481a8648",
+        "dc_account": {
+          "Id": "86ed987a-ad1a-ec11-b6e7-0022481a8648",
+          "Name": "Squeezed"
+        },
+        "dc_date": "2021-09-22T00:00:00Z",
+        "dc_notes": null,
+        "list-id": "acfdaee0-a549-ea11-a812-000d3a86b9ef",
+        "view-id": "16b3ead0-e7bc-484a-8613-611f1f3ade8a",
+        "entity-permissions-enabled": "true"
+      }
+    ]
+  }
+}
