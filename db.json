@@ -1,6 +1,6 @@
 {
   "sessions": {
-    "odata.metadata": "https://bristolburgers.powerappsportals.com/_odata/$metadata#Sessions",
+    "odata.metadata": "https://org.com/_odata/$metadata#Sessions",
     "value": [
       {
         "dc_sessionid": "fea01117-9c49-ea11-a812-000d3a86b9ef",
