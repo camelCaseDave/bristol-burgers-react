@@ -1,6 +1,9 @@
 See `package.json` for scripts.
 
-**Develop** using `npm start` to boot React app on localhost:3000/ and `npm startdb` to boot a local database on localhost:3001/
+**Develop** using 
+ - `npm install` to install required dependencies 
+ - you'll also need `npm install -g json-server`
+ -  `npm start` to boot React app on localhost:3000/ and `npm startdb` to boot a local database on localhost:3001/
  - they have to be on separate ports. In package.json see the `proxy` property, which tells React to redirect any API requests made locally to the database on port 3001
  - `routes.json` routes data in `db.json` to the expected URL in production. You can therefore make a request in Production and copy the result into `db.json`, setup a route in `routes.json` so that you can mock the API request and develop locally.
 
