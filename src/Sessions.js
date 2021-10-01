@@ -17,7 +17,7 @@ class Sessions extends React.Component {
   }
 
   componentDidMount() {
-    fetch("_odata/Sessions")
+    fetch("/_odata/Sessions")
       .then((res) => res.json())
       .then(
         (result) => {
